@@ -1,2 +1,4 @@
 # structure-page-system
-With the accumulation of elements, web pages tends to get cluttered this system will help keep it in form.
+Micro components of a web page.
+.
+This is one where I have started to document and for easy usability of code I have tried to separately add all the components.
