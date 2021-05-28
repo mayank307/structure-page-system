@@ -38,12 +38,20 @@
 	•abbreviations and acronyms <abbr>
 	•citations <cite>
 	•defining terms <dfn>
-	•program code elements
+	•program code elements :
 		•code <code>
 		•variable <var>
 		•program sample <samp>
 		•user-entered keyboard strokes <kbd>
 	•subscript <sub>
 	•superscript <sup>
+	•highlighted text <mark>
+	•dates and time <time>
+	•machine-readable information <data>
+	•inserted text <ins>
+	•deleted text <del>
+	•line break <br>
+	•word break <wbr>
+
 	
 	
