@@ -27,6 +27,23 @@
 	•addresses <address>
 
 #component-04 :
-	•
-	•
+	•emphasized text <em>
+	•important text <strong>
+	•bold <b>
+	•italics <i>
+	•strike-through <s>
+	•underline <u>
+	•small print <small>
+	•short quotations <q>
+	•abbreviations and acronyms <abbr>
+	•citations <cite>
+	•defining terms <dfn>
+	•program code elements
+		•code <code>
+		•variable <var>
+		•program sample <samp>
+		•user-entered keyboard strokes <kbd>
+	•subscript <sub>
+	•superscript <sup>
+	
 	
