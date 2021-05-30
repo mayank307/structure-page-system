@@ -56,9 +56,9 @@
 #component-05 :
 	•generic block-level element <div>
 	•generic inline element <span>
-	•attributes :
-		•id
-		•class
+	•global attributes :
+		•unique identifier id
+		•classifies elements class
 
 	
 	
