@@ -60,5 +60,10 @@
 		•unique identifier id
 		•classifies elements class
 
+#component-06 :
+	•anchor <a>
+		•attribute href
+
+
 	
 	
