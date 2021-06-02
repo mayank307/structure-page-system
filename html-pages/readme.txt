@@ -60,9 +60,12 @@
 		•unique identifier id
 		•classifies elements class
 
-#component-06 :
+#component-07 :
 	•anchor <a>
-		•attribute href
+		•hypertext reference href
+	•image <img>
+		•source attribute src
+		•alternative text alt
 
 
 	
