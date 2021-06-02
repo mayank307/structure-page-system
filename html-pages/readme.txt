@@ -65,7 +65,7 @@
 		•hypertext reference href
 	•image <img>
 		•source attribute src
-		•alternative text alt
+		•alternative test alt
 
 
 	
